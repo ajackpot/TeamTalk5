@@ -34,7 +34,7 @@ if (Qt6_FOUND)
     sendtextedit.h streammediafiledlg.h videotextdlg.h
     desktopaccessdlg.h appinfo.h settings.h generatettfiledlg.h
     customvideofmtdlg.h license.h bearwarelogindlg.h
-    audiopreprocessordlg.h
+    audiopreprocessordlg.h ttseventsmodel.h
     main.cpp mainwindow.cpp preferencesdlg.cpp uservideowidget.cpp
     channelstree.cpp channeldlg.cpp userinfodlg.cpp
     bannedusersdlg.cpp useraccountsdlg.cpp videogridwidget.cpp
@@ -48,7 +48,7 @@ if (Qt6_FOUND)
     userdesktopdlg.cpp desktopsharedlg.cpp sendtextedit.cpp
     streammediafiledlg.cpp videotextdlg.cpp desktopaccessdlg.cpp
     generatettfiledlg.cpp customvideofmtdlg.cpp
-    bearwarelogindlg.cpp audiopreprocessordlg.cpp
+    bearwarelogindlg.cpp audiopreprocessordlg.cpp ttseventsmodel.cpp
     mainwindow.ui channel.ui preferences.ui
     serverlist.ui userinfo.ui bannedusers.ui useraccounts.ui
     serverproperties.ui uservideo.ui keycomp.ui textmessage.ui
